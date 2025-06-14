@@ -1,0 +1,63 @@
+# Zarzadzanie-projektem-wdrozeniowym-Morawski
+Zaliczenie przedmiotu Zarządzanie Projektem Wdrożeniowym - z tego co rozumiem wramach tego pilu mam zaprezentować swoje umiejętności w tworzeniu plików ReadMe. w tym pliku będę odnosił się do kodu z części 2.
+
+# Przewodnik po stolicach Europy
+
+Projekt prezentuję stolicę europiejskich Państw. Zawiera Zdjęcia oraz opisy poszczególnych Stolic.
+
+## Spis treści
+
+- [Opis](#opis)
+- [Technologie](#technologie)
+- [Autorzy](#autorzy)
+
+## Opis
+
+Strona zawiera krótki opis miast oraz zdjęcie wkomponowane w kod HTML. Projekt wykonany w ramach zadania uczelnianego.
+
+## Technologie
+
+-HTML
+-Git
+-GitHub Pages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Autorzy
+- Piotr Morawski - Praga
+- reszta grupy - Pozsotałe stolice
+
+
+
+
+
+
