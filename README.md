@@ -5,7 +5,13 @@ Zaliczenie przedmiotu Zarządzanie Projektem Wdrożeniowym - z tego co rozumiem 
 
 Projekt prezentuję stolicę europiejskich Państw. Zawiera Zdjęcia oraz opisy poszczególnych Stolic.
 
-# Zdjęcia
+## GitHub Pages
+
+
+## Zdjęcia
+
+![image](https://github.com/user-attachments/assets/fe489361-f71e-4f45-b1ec-91e693b64657)
+
 
 ![image](https://github.com/user-attachments/assets/bb6c958a-b341-4145-86ed-62ccb5dd6151)
 
