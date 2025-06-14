@@ -22,7 +22,7 @@ https://piotrstudent1234.github.io/Zarzadzanie-projektem-wdrozeniowym-Morawski/
 - [Opis](#opis)
 - [Technologie](#technologie)
 - [Autorzy](#autorzy)
-- -[Uruchamianie](#uruchamianie)
+- [Uruchamianie](#uruchamianie)
 
 ## Opis
 
