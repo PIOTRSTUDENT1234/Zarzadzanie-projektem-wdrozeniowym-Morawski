@@ -7,6 +7,7 @@ Projekt prezentuję stolicę europiejskich Państw. Zawiera Zdjęcia oraz opisy 
 
 ## GitHub Pages
 
+https://piotrstudent1234.github.io/Zarzadzanie-projektem-wdrozeniowym-Morawski/
 
 ## Zdjęcia
 
@@ -21,6 +22,7 @@ Projekt prezentuję stolicę europiejskich Państw. Zawiera Zdjęcia oraz opisy 
 - [Opis](#opis)
 - [Technologie](#technologie)
 - [Autorzy](#autorzy)
+- -[Uruchamianie](#uruchamianie)
 
 ## Opis
 
@@ -32,42 +34,16 @@ Strona zawiera krótki opis miast oraz zdjęcie wkomponowane w kod HTML. Projekt
 -Git
 -GitHub Pages
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Autorzy
 - Piotr Morawski - Praga
 - reszta grupy - Pozsotałe stolice
 
+## Uruchamianie
+Aby uruchomić stronę lokalnie:
 
+Sklonuj repozytorium na swój komputer:
+```bash
+git clone https://github.com/PIOTRSTUDENT1234/Zarzadzanie-projektem-wdrozeniowym-Morawski.git
 
 
 
